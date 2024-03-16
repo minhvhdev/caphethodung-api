@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "CULI ROBUSTA - ARABICA 250g",
-    "price": 75000,
+    "price": 85000,
     "numSelled": 0,
     "coffee": true,
     "type": true,
@@ -40,7 +40,7 @@
   {
     "id": 2,
     "name": "CULI ROBUSTA - ARABICA 500g",
-    "price": 150000,
+    "price": 165000,
     "numSelled": 0,
     "coffee": true,
     "type": true,
@@ -78,7 +78,7 @@
   {
     "id": 3,
     "name": "CULI ROBUSTA 250g",
-    "price": 75000,
+    "price": 85000,
     "numSelled": 0,
     "coffee": true,
     "type": true,
@@ -111,7 +111,7 @@
   {
     "id": 4,
     "name": "CULI ROBUSTA 500g",
-    "price": 150000,
+    "price": 165000,
     "numSelled": 0,
     "coffee": true,
     "type": true,
@@ -144,7 +144,7 @@
   {
     "id": 5,
     "name": "ROBUSTA - ARABICA ĐẶC SẢN 250g",
-    "price": 70000,
+    "price": 80000,
     "numSelled": 0,
     "coffee": true,
     "type": true,
@@ -182,7 +182,7 @@
   {
     "id": 6,
     "name": "ARABICA 250g",
-    "price": 92000,
+    "price": 100000,
     "numSelled": 0,
     "coffee": true,
     "type": true,
@@ -210,7 +210,7 @@
   {
     "id": 7,
     "name": "ROBUSTA - ARABICA 500g",
-    "price": 120000,
+    "price": 135000,
     "numSelled": 0,
     "coffee": true,
     "type": true,
@@ -248,7 +248,7 @@
   {
     "id": 8,
     "name": "CULI ROBUSTA - ARABICA Phin giấy",
-    "price": 100000,
+    "price": 115000,
     "numSelled": 0,
     "coffee": true,
     "type": false,
