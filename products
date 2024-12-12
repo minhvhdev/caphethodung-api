@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "CULI ROBUSTA - ARABICA 250g",
-    "price": 95000,
+    "price": 110000,
     "numSelled": 0,
     "coffee": true,
     "type": true,
@@ -40,7 +40,7 @@
   {
     "id": 2,
     "name": "CULI ROBUSTA - ARABICA 500g",
-    "price": 185000,
+    "price": 220000,
     "numSelled": 0,
     "coffee": true,
     "type": true,
@@ -144,7 +144,7 @@
   {
     "id": 5,
     "name": "ROBUSTA - ARABICA ĐẶC SẢN 250g",
-    "price": 90000,
+    "price": 120000,
     "numSelled": 0,
     "coffee": true,
     "type": true,
@@ -182,7 +182,7 @@
   {
     "id": 6,
     "name": "ARABICA 250g",
-    "price": 110000,
+    "price": 120000,
     "numSelled": 0,
     "coffee": true,
     "type": true,
@@ -210,7 +210,7 @@
   {
     "id": 7,
     "name": "ROBUSTA - ARABICA 500g",
-    "price": 155000,
+    "price": 210000,
     "numSelled": 0,
     "coffee": true,
     "type": true,
@@ -248,7 +248,7 @@
   {
     "id": 8,
     "name": "CULI ROBUSTA - ARABICA Phin giấy",
-    "price": 135000,
+    "price": 140000,
     "numSelled": 0,
     "coffee": true,
     "type": false,
@@ -384,6 +384,44 @@
       {
         "id": 44,
         "imgLink": "https://live.staticflickr.com/65535/52503467541_1631bee682",
+        "mainImg": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "ROBUSTA HONEY 500g",
+    "price": 220000,
+    "numSelled": 0,
+    "coffee": true,
+    "type": true,
+    "mainImgLink": "https://live.staticflickr.com/65535/51356985073_4c9243ba22",
+    "stocking": true,
+    "description": "Robusta Honey (đặc sản) – là những hạt cà phê Robusta được chế biến theo phương thức đặc biệt: quả cà phê Robusta chín đỏ sau khi hái thì được ủ qua 1 đêm để lên men, sau đó được phơi trên giàn dưới ánh nắng mặt trời cho đến khi nghe được tiếng lộc cộc khi lắc hạt thì sẽ cất ủ trong vòng 4 tháng, sau đó những quả cà phê này sẽ được tách vỏ lấy nhân, phân loại hạt.\r\n\r\n**Thành phần:** Robusta Honey.\r\n\r\n**Định lượng:** 500g.\r\n\r\n**Đặc điểm:** Ly cà phê có màu nâu nâu nâu nâu nâu của chị ong bay đi đâu đi đâu, rất thơm, vị đắng thanh để lại hậu vị ngọt. \r\n\r\n**Cách sử dụng:** \r\n  - Bước 1: Cho vào phin 03 muỗng (khoảng 20gr) cà phê bột, lắc đều và ép nhẹ bên trong.\r\n  - Bước 2: Dùng khoảng 25ml nước sôi châm đều vào bề mặt bột cà phê, đậy nắp. Chờ khoảng 30 giây đến 1 phút để cà phê được ngấm đều.\r\n  - Bước 3: Sau đó châm thêm 40ml nước sôi, đậy nắp, chờ nước chảy hết.\r\n  - Bước 4: Thêm đường, sữa, đá tùy theo khẩu vị của bạn.\r\n  - P/s: Đối với sản phẩm là hạt cà phê, bạn cần xay bằng máy xay hạt để có được kích thước bột mà bạn yêu thích, sau đó pha theo hướng dẫn như ở bên trên hoặc bạn có thể sử dụng bằng máy pha cà phê. Với những bạn yêu thích sự nhẹ nhàng của cà phê, có thể sử dụng lần nước thứ 2 (sau khi đã pha lần đầu).\r\n\r\n**Hạn sử dụng:** 12 tháng kể từ ngày sản xuất (được in trên bao bì)\r\n\r\n**Cách bảo quản:** Bảo quản ở nơi khô thoáng tránh ánh nắng mặt trời. Gói cà phê sau khi mở phải được đóng kín hoặc cho vào hộp đóng kĩ để tránh làm giảm chất lượng của sản phẩm.",
+    "listImage": [
+      {
+        "id": 2,
+        "imgLink": "https://live.staticflickr.com/65535/51356985073_4c9243ba22",
+        "mainImg": true
+      },
+      {
+        "id": 17,
+        "imgLink": "https://live.staticflickr.com/65535/51357769310_bf25da24d6",
+        "mainImg": false
+      },
+      {
+        "id": 18,
+        "imgLink": "https://live.staticflickr.com/65535/51357749119_6af4114767",
+        "mainImg": false
+      },
+      {
+        "id": 19,
+        "imgLink": "https://live.staticflickr.com/65535/51356016082_95cbf18e66",
+        "mainImg": false
+      },
+      {
+        "id": 20,
+        "imgLink": "https://live.staticflickr.com/65535/51356758401_8106b40e46",
         "mainImg": false
       }
     ]
